@@ -1,0 +1,2 @@
+A computer is an electronic device that processes data according to a set of instructions called a program. 
+Computers can perform a wide variety of tasks, ranging from basic arithmetic operations to complex simulations and data processing.
