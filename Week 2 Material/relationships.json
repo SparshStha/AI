@@ -1,0 +1,53 @@
+{
+      "father": 
+      [
+            {"John": "William"},
+            {"John": "David"},
+            {"John": "Adam"},
+            {"William": "Chris"},
+            {"William": "Stephanie"},
+            {"David": "Wayne"},
+            {"David": "Tiffany"},
+            {"David": "Julie"},
+            {"David": "Neil"},
+            {"David": "Peter"},
+            {"Adam": "Sophia"}
+      ],
+      "mother": 
+      [
+            {"Megan": "William"},
+            {"Megan": "David"},
+            {"Megan": "Adam"},
+            {"Emma": "Stephanie"},
+            {"Emma": "Chris"},
+            {"Olivia": "Tiffany"},
+            {"Olivia": "Julie"},
+            {"Olivia": "Neil"},
+            {"Olivia": "Peter"},
+            {"Lily": "Sophia"}
+      ],
+      "sibiling":
+      [
+            {"David": "William"},
+            {"David": "Adam"},
+            {"David": "Wayne"},
+            {"David": "Tiffany"},
+            {"David": "Julie"},
+            {"David": "Neil"},
+            {"David": "Peter"}
+      ],
+      "uncle":
+      [
+            {"Tiffany": "John"},
+            {"Tiffany": "William"},
+            {"Tiffany": "Adam"}
+      ],
+      "spouses":
+      [
+            {"John": "Megan"},
+            {"William": "Emma"},
+            {"David": "Olivia"},
+            {"Adam": "Lily"}
+      ]
+
+}
